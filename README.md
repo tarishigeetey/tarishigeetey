@@ -2,7 +2,7 @@
 
 #### Web-Designer and Developer
 
-I design, I code; <br>
+I design, I code - fun stuff that make sense; <br>
 
 - ⚙️ I use daily: `.java`, `.js`, `.html`, `.css`, `.py`, `.procreate`, `.fig`, `.ai`
 - 🌍 Active in the development and design community
