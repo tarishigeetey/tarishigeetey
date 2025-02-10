@@ -1,6 +1,6 @@
 ### Hello there 👋
 
-#### Web-Designer and Developer
+#### Full-Stack Developer
 
 I design, I code - fun stuff that make sense; <br>
 
